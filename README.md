@@ -1,6 +1,6 @@
 # 40_days_of_code
 
-That the 40 days coding challenge which, I have took.
+That the 40 days coding challenge which, I have taken.
 
 Day 1: I studied about greedy algorithm at coding ninja and solved few basic question based on greedy.
 
